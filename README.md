@@ -4,7 +4,7 @@ Hi, I'm Taegon - research associate at the University of Minnesota. I love progr
 
 - Personal site: https://code.taegon.kr/about/
 - Publications: https://project.taegon.kr/papers/
-- Academic website: https://code.taegon.kr/academic-website/
+- Academic website: https://code.taegon.kr/academic-website-actions/
 - My works (All items are web-based, I am trying to keep it working): https://code.taegon.kr/works/
 
 <!--
