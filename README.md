@@ -1,6 +1,6 @@
 # Taegon Kim / 김태곤
 
-Hi:hand:, I'm Taegon - a research associate at the University of Minnesota. I love programming to answer research questions with my friends and colleagues. My academic expertise is modeling and simulation studies in agricultural systems, including food supply chain, decision support systems, geospatial analysis, and irrigation & drought under climate change.
+Hi:hand:, I'm Taegon - an assistant professor at the JBNU (Jeonbuk National University). I love programming to answer research questions with my friends and colleagues. My academic expertise is modeling and simulation studies in agricultural systems, including food supply chain, decision support systems, geospatial analysis, and irrigation & drought under climate change.
 
 - Personal site: https://code.taegon.kr/about/
 - Publications: https://project.taegon.kr/papers/
